@@ -2,6 +2,10 @@
 
 https://dragon-react-chat.netlify.app
 
+User : Fantom
+pass: 123123
+User : VladimirVV
+pass: 123456
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
