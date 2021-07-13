@@ -1,5 +1,5 @@
-import React from 'core-js/library/fn/reflect/es7/metadata'
-import ReactDOM from 'react'
+import React from 'react'
+import ReactDOM from 'react-dom';
 
 import App from './App'
 
